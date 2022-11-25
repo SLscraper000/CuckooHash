@@ -36,6 +36,7 @@ The following two tables show the insertion of some example elements. Each colum
 
 // Java program to demonstrate working ofCuckoo hashing.
 
+``` java 
 import java.util.Arrays;
 
 class CuckooHash {
@@ -176,8 +177,7 @@ class CuckooHash {
 
     }
     
-    }
-
+    }```
 
 
 
